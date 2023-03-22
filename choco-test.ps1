@@ -1,1 +1,1 @@
-choco install kindlepreviewer
+choco install mblock
